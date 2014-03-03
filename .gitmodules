@@ -1,0 +1,4 @@
+[submodule "blog/html"]
+	path = blog/html
+	url = git@github.com:silverjam/zhongwen.git
+	branch = gh-pages
