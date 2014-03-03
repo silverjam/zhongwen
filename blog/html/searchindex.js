@@ -1,1 +1,0 @@
-Search.setIndex({envversion:42,terms:{},objtypes:{},objnames:{},filenames:["2014/03/02/ni3_hao3_shi4jie4","master"],titles:["\u4f60\u597d\u4e16\u754c","Sitemap"],objects:{},titleterms:{"\u4f60\u597d\u4e16\u754c":0,sitemap:1}})
